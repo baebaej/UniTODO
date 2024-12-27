@@ -1,0 +1,21 @@
+.ModalButton {
+  width: 233px;
+  height: 44px;
+
+  /* todo/main */
+  border: 1px solid #6c95fd;
+  border-radius: 8px;
+  background-color: #ffffff;
+  padding: 10px;
+  border: 1px solid #6c95fd;
+  border-radius: 8px;
+  align-content: center;
+
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  /* identical to box height */
+  text-align: center;
+  color: #ffffff;
+}

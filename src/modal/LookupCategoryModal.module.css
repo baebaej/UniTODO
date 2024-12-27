@@ -1,0 +1,343 @@
+:root {
+  --default-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Ubuntu, "Helvetica Neue", Helvetica, Arial, "PingFang SC",
+    "Hiragino Sans GB", "Microsoft Yahei UI", "Microsoft Yahei",
+    "Source Han Sans CN", sans-serif;
+}
+
+.main-container {
+  overflow: hidden;
+}
+
+.main-container,
+.main-container * {
+  box-sizing: border-box;
+}
+
+input,
+select,
+textarea,
+button {
+  outline: 0;
+}
+
+.main-container {
+  position: fixed; /* 부모 요소 화면에 고정 */
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); /* 정중앙으로 이동 */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-wrap: nowrap;
+  gap: 38px;
+  width: 620px;
+  margin: 0 auto;
+  padding: 40px 70px 50px 70px;
+  background: #ffffff;
+  border-radius: 24px;
+  box-shadow: 2px 2px 12px 0 rgba(0, 0, 0, 0.16);
+  z-index: 1000; /* 다른 요소 위에 표시 */
+}
+
+body {
+  overflow: hidden; /* 배경 스크롤 방지 */
+}
+
+.overlay {
+  position: fixed; /* 화면 전체를 덮는 배경 */
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5); /* 반투명 검정 배경 */
+  z-index: 999; /* modal 뒤에 배치 */
+}
+
+.category-view {
+  align-self: stretch;
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 30px;
+  color: #4972de;
+  font-family: SUITE, var(--default-font-family);
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 29.952px;
+  text-align: center;
+  white-space: nowrap;
+}
+.frame-1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 42px;
+  position: relative;
+  width: 480px;
+  z-index: 1;
+}
+.frame-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 40px;
+  position: relative;
+  z-index: 2;
+}
+.frame-3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 14px;
+  position: relative;
+  width: 480px;
+  z-index: 3;
+}
+.name {
+  align-self: stretch;
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 22px;
+  color: #181818;
+  font-family: SUITE, var(--default-font-family);
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 22px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 4;
+}
+.frame-4 {
+  display: flex;
+  align-items: center;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 4px;
+  position: relative;
+  width: 480px;
+  height: 48px;
+  padding: 14px 20px 14px 20px;
+  background: #fbfbfb;
+  z-index: 5;
+  overflow: hidden;
+  border-radius: 6px;
+  color: #3a3a3a;
+}
+.frame-input {
+  flex-shrink: 0;
+  width: 480px;
+  height: 48px;
+  top: 0;
+  left: 0;
+  background: transparent;
+  border: none;
+  z-index: 7;
+  outline: none;
+  color: #3a3a3a;
+  font-family: "SUITE";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+}
+.category-name-input {
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  min-width: 0;
+  height: 20px;
+  color: #393939;
+  font-family: SUITE, var(--default-font-family);
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 19.968px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 6;
+}
+.frame-5 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 14px;
+  position: relative;
+  width: 480px;
+  z-index: 8;
+}
+.description {
+  align-self: stretch;
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 22px;
+  color: #181818;
+  font-family: SUITE, var(--default-font-family);
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 22px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 9;
+}
+.frame-6 {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 4px;
+  position: relative;
+  width: 480px;
+  height: 100px;
+  padding: 14px 20px 14px 20px;
+  background: #fbfbfb;
+  z-index: 10;
+  overflow: hidden;
+  border-radius: 6px;
+  color: #3a3a3a;
+}
+
+.frame-desc {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 4px;
+  position: relative;
+  width: 480px;
+  height: 100px;
+  background: #fbfbfb;
+  z-index: 10;
+  overflow: hidden;
+  border-radius: 6px;
+  padding-left: 20px;
+  color: #3a3a3a;
+}
+.frame-input-7 {
+  flex-shrink: 0;
+  position: absolute;
+  width: 480px;
+  height: 100px;
+  top: 0;
+  left: 0;
+  background: transparent;
+  border: none;
+  z-index: 12;
+  outline: none;
+}
+.go-to-gym {
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  min-width: 0;
+  height: 20px;
+  color: #393939;
+  font-family: SUITE, var(--default-font-family);
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 19.968px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 11;
+}
+.frame-8 {
+  display: flex;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 14px;
+  position: relative;
+  z-index: 13;
+}
+.frame-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: nowrap;
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: 0;
+  gap: 4px;
+  position: relative;
+  padding: 12px 20px 12px 20px;
+  cursor: pointer;
+  background: #ffffff;
+  border: 1px solid #6c94fc;
+  z-index: 14;
+  border-radius: 8px;
+}
+.edit-span {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  width: 87px;
+  height: 20px;
+  color: #6c94fc;
+  font-family: SUITE, var(--default-font-family);
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 19.968px;
+  text-align: center;
+  white-space: nowrap;
+  z-index: 15;
+}
+.frame-button-9 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: nowrap;
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: 0;
+  gap: 4px;
+  position: relative;
+  padding: 12px 20px 12px 20px;
+  cursor: pointer;
+  background: #ff6363;
+  border: none;
+  z-index: 16;
+  border-radius: 8px;
+}
+.delete-span {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  width: 87px;
+  height: 20px;
+  color: #ffffff;
+  font-family: SUITE, var(--default-font-family);
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 19.968px;
+  text-align: center;
+  white-space: nowrap;
+  z-index: 17;
+}
+
+.close-button {
+  position: absolute;
+  top: 30px;
+  right: 30px;
+  background: none;
+  border: none;
+  cursor: pointer;
+}

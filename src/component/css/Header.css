@@ -1,0 +1,23 @@
+.Header {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  background-color: #6c95fd;
+  padding-left: 50px;
+  padding-right: 50px;
+
+  align-items: center;
+}
+
+.Logo {
+  flex-grow: 1;
+}
+
+.UserInfo {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: row;
+  justify-content: right;
+  align-items: end;
+}

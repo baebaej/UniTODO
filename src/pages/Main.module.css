@@ -1,0 +1,46 @@
+.Main {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  font-family: "SUITE", "궁서체";
+}
+
+.HeaderFrame {
+  height: 100px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.ContentFrame {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  background-color: aliceblue;
+}
+
+.LeftComponent {
+  height: 100%;
+  width: 20%;
+  min-width: 230px;
+  display: flex;
+  background-color: #f1f5ff;
+  justify-content: center;
+}
+
+.RightComponent {
+  height: 100%;
+  width: 80%;
+  background-color: #fdfdff;
+}
+
+.BottomFrame {
+  height: 100px;
+  width: 100%;
+  display: flex;
+  background-color: #dadee8;
+
+  align-items: center;
+}
