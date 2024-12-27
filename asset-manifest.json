@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/UniTODO/static/css/main.6583f664.css",
-    "main.js": "/UniTODO/static/js/main.64b0a95e.js",
+    "main.js": "/UniTODO/static/js/main.a691a9ee.js",
     "static/js/453.99dcf01f.chunk.js": "/UniTODO/static/js/453.99dcf01f.chunk.js",
     "static/media/SUITE-Regular.otf": "/UniTODO/static/media/SUITE-Regular.8c8e41d3de36e7f82de8.otf",
     "static/media/appcenterlogo.svg": "/UniTODO/static/media/appcenterlogo.db19799cc338a34e2999a34c9fdf9633.svg",
@@ -12,11 +12,11 @@
     "static/media/material-symbols_close-rounded.svg": "/UniTODO/static/media/material-symbols_close-rounded.92e179f4d351b1d3e862f19a00500897.svg",
     "index.html": "/UniTODO/index.html",
     "main.6583f664.css.map": "/UniTODO/static/css/main.6583f664.css.map",
-    "main.64b0a95e.js.map": "/UniTODO/static/js/main.64b0a95e.js.map",
+    "main.a691a9ee.js.map": "/UniTODO/static/js/main.a691a9ee.js.map",
     "453.99dcf01f.chunk.js.map": "/UniTODO/static/js/453.99dcf01f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6583f664.css",
-    "static/js/main.64b0a95e.js"
+    "static/js/main.a691a9ee.js"
   ]
 }
