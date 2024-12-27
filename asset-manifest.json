@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/UniTODO/static/css/main.6583f664.css",
+    "main.js": "/UniTODO/static/js/main.64b0a95e.js",
+    "static/js/453.99dcf01f.chunk.js": "/UniTODO/static/js/453.99dcf01f.chunk.js",
+    "static/media/SUITE-Regular.otf": "/UniTODO/static/media/SUITE-Regular.8c8e41d3de36e7f82de8.otf",
+    "static/media/appcenterlogo.svg": "/UniTODO/static/media/appcenterlogo.db19799cc338a34e2999a34c9fdf9633.svg",
+    "static/media/logo_ver_2.svg": "/UniTODO/static/media/logo_ver_2.d6318f4460cc22ef745419ee4f9e00d3.svg",
+    "static/media/logo.svg": "/UniTODO/static/media/logo.63494bfe16dc1841bfacc351ddca0802.svg",
+    "static/media/setting.svg": "/UniTODO/static/media/setting.bf213967bf90cc1e499bc16aeecabe49.svg",
+    "static/media/calendar.svg": "/UniTODO/static/media/calendar.77c0c43481211858d62cab278c463a90.svg",
+    "static/media/material-symbols_close-rounded.svg": "/UniTODO/static/media/material-symbols_close-rounded.92e179f4d351b1d3e862f19a00500897.svg",
+    "index.html": "/UniTODO/index.html",
+    "main.6583f664.css.map": "/UniTODO/static/css/main.6583f664.css.map",
+    "main.64b0a95e.js.map": "/UniTODO/static/js/main.64b0a95e.js.map",
+    "453.99dcf01f.chunk.js.map": "/UniTODO/static/js/453.99dcf01f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6583f664.css",
+    "static/js/main.64b0a95e.js"
+  ]
+}
