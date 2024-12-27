@@ -1,0 +1,74 @@
+.TodoCategory {
+  width: 100%;
+  height: 74px;
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+  background-color: #fff2ee;
+  justify-content: space-between;
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  margin-bottom: 20px;
+
+  box-sizing: border-box; /* padding과 border를 포함한 크기 계산 */
+}
+
+.TodoCategory > .FirstLine {
+  display: flex;
+  flex-direction: row;
+}
+
+.TodoCategory > .FirstLine > .Title {
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+.TodoCategory > .FirstLine > .BtnGroup {
+  display: flex;
+  flex-direction: row;
+  flex-grow: 1;
+
+  justify-content: flex-end;
+
+  font-size: 12px;
+
+  text-align: center;
+  align-items: baseline;
+}
+.btnEdit {
+  border: 1px solid #3a3a3a;
+  border-radius: 8px;
+  background-color: #fcfcfc;
+  padding: 2px;
+  margin-right: 7px;
+  color: #3a3a3a;
+
+  width: 33px;
+  height: 21px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btnDelete {
+  border: 1px solid #ff3131;
+  border-radius: 8px;
+  background-color: #fff2ee;
+  padding: 2px;
+  color: #ff3131;
+
+  width: 33px;
+  height: 21px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.TodoCategory > .SecondLine {
+  font-size: 11px;
+}

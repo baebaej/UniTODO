@@ -1,0 +1,12 @@
+.TodoContentFrame {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  max-height: 100%;
+  width: 100%;
+  gap: 10px;
+
+  overflow-y: scroll;
+
+  box-sizing: border-box; /* padding과 border를 포함한 크기 계산 */
+}
