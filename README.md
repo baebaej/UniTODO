@@ -8,7 +8,7 @@ https://github.com/baebaej/UniTODO-Web.git
 
 ## 실행 방법
 
-npm start로 로컬호스트 서버를 가동 후, localhost:3000을 접속하여 사용할 수 있습니다.
+npm start로 로컬호스트 서버를 가동 후, localhost:3000을 접속하여 사용할 수 있습니다.<br/>
 별도 도메인 주소는 확보되는 경우 README에 업데이트 됩니다.
 
 ## 지원 기능
