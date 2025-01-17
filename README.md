@@ -4,6 +4,11 @@
 npm start로 로컬호스트 서버를 가동 후, localhost:3000을 접속하여 사용할 수 있습니다.<br/>
 별도 도메인 주소는 확보되는 경우 README에 업데이트 됩니다.<br/>
 
+## GitHub
+
+https://github.com/baebaej/UniTODO-Web.git
+
+## 실행 화면
 ### 로그인 화면
 ![스크린샷 2025-01-17 224953](https://github.com/user-attachments/assets/ebed610d-111a-4ab0-9357-cf38569c3ef5)
 
