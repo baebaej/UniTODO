@@ -10,28 +10,25 @@
 
 ### 비밀번호 찾기 화면
 
-![스크린샷 2025-01-17 225621.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/6fefe629-ee97-4af1-afaa-c409f4b108b1/d9243b8d-97ea-4f66-b963-6739b00a7b6e/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2025-01-17_225621.png)
-
-![스크린샷 2025-01-17 225626.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/6fefe629-ee97-4af1-afaa-c409f4b108b1/ce851763-3d3e-4f7d-81ab-20a7a46d8793/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2025-01-17_225626.png)
+![스크린샷 2025-01-17 225621](https://github.com/user-attachments/assets/44753375-5a0a-46b4-b0d3-ad325567cf01)
+![스크린샷 2025-01-17 225626](https://github.com/user-attachments/assets/9834cc26-e6ec-4f65-9d5f-3553a7be33b5)
 
 ### TODO 화면
 
-![스크린샷 2025-01-17 225452.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/6fefe629-ee97-4af1-afaa-c409f4b108b1/a314774a-9aac-4fab-961c-d20f98ef77e6/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2025-01-17_225452.png)
+![스크린샷 2025-01-17 225452](https://github.com/user-attachments/assets/1f560b32-88cb-4e37-a68b-5a6cc7669256)
 
 ### TODO 추가 화면
 
-![스크린샷 2025-01-17 225600.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/6fefe629-ee97-4af1-afaa-c409f4b108b1/3cd88ea8-6ddc-496b-93fe-a1a36b2fd5f9/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2025-01-17_225600.png)
+![스크린샷 2025-01-17 225600](https://github.com/user-attachments/assets/6d25af71-5802-4679-826f-4206912ea987)
 
 ### 카테고리 추가 화면
-
-![스크린샷 2025-01-17 225604.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/6fefe629-ee97-4af1-afaa-c409f4b108b1/fc119c0e-1102-4c03-b742-d725965eb667/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2025-01-17_225604.png)
+![스크린샷 2025-01-17 225604](https://github.com/user-attachments/assets/6acc68fb-d6b4-40c6-a4af-9d320e57569f)
 
 ### TODO 수정 화면
-
-![스크린샷 2025-01-17 225552.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/6fefe629-ee97-4af1-afaa-c409f4b108b1/71e23196-8ab9-43ed-8152-d1b733862796/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2025-01-17_225552.png)
+![스크린샷 2025-01-17 225552](https://github.com/user-attachments/assets/dafa1069-d5e4-4b3f-9699-9b5f04cf28c1)
 
 ### 내 정보 및 내 정보 수정 화면
 
-![스크린샷 2025-01-17 225524.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/6fefe629-ee97-4af1-afaa-c409f4b108b1/ce39df0e-c619-4fac-bfc2-3e4ac7bea0f9/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2025-01-17_225524.png)
+![스크린샷 2025-01-17 225524](https://github.com/user-attachments/assets/5169f08a-94d2-48da-bf4a-cfc250e1958b)
+![스크린샷 2025-01-17 225532](https://github.com/user-attachments/assets/f645cb7d-0582-4a1d-b9c5-06c1e5052c61)
 
-![스크린샷 2025-01-17 225532.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/6fefe629-ee97-4af1-afaa-c409f4b108b1/34419450-b935-40fb-bd07-a3185da82d0f/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2025-01-17_225532.png)
