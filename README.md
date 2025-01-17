@@ -3,12 +3,10 @@
 앱센터 16.5기 겨울방학 프로젝트 시작 전, 워밍업 프로젝트로 TODO 서비스를 제작하였습니다
 
 ### 로그인 화면
-
-![스크린샷 2025-01-17 224953.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/6fefe629-ee97-4af1-afaa-c409f4b108b1/c81d08b7-9a60-4ef8-8dc8-bcb87153f4ae/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2025-01-17_224953.png)
+![스크린샷 2025-01-17 224953](https://github.com/user-attachments/assets/ebed610d-111a-4ab0-9357-cf38569c3ef5)
 
 ### 회원가입 화면
-
-![스크린샷 2025-01-17 225014.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/6fefe629-ee97-4af1-afaa-c409f4b108b1/c4ccbe9c-b905-4fcf-853f-619899620dd4/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2025-01-17_225014.png)
+![스크린샷 2025-01-17 225014](https://github.com/user-attachments/assets/342f8fb9-c7e3-4a01-aa96-d4dec6cc9478)
 
 ### 비밀번호 찾기 화면
 
