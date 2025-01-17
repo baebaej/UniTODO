@@ -32,3 +32,13 @@
 ![스크린샷 2025-01-17 225524](https://github.com/user-attachments/assets/5169f08a-94d2-48da-bf4a-cfc250e1958b)
 ![스크린샷 2025-01-17 225532](https://github.com/user-attachments/assets/f645cb7d-0582-4a1d-b9c5-06c1e5052c61)
 
+
+## 구성원
+
+- 프론트
+    - 웹 - 배현준
+    - 안드로이드 - 박규랑
+- 백엔드
+    - 김동현
+- 디자인
+    - 이승원
